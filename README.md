@@ -185,7 +185,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis felis cursu
     
 3. ### Product
     Semua API untuk me-*manage* product
-    1. **#### ALL Product**
+    1. #### **ALL Product**
         ##### Endpoint : [GET] /api/product
         #####  Headers
         ```
@@ -302,7 +302,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis felis cursu
             "message":  "Unauthorized"
         }
         ```
-    2. **#### Get Product**
+    2. #### **Get Product**
         ##### Endpoint : [GET] /api/product/{id}
         #####  Headers
         ```
@@ -326,7 +326,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis felis cursu
             "message":  "Unauthorized"
         }
         ```
-    3. **#### Create Product**
+    3. #### **Create Product**
         ##### Endpoint : [POST] /api/product
         #####  Headers
         ```
@@ -354,7 +354,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis felis cursu
             "message":  "Unauthorized"
         }
         ```
-    4. **#### Update Product**
+    4. #### **Update Product**
         ##### Endpoint : [PUT] /api/product/{id}
         #####  Headers
         ```
@@ -382,7 +382,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis felis cursu
             "message":  "Unauthorized"
         }
         ```
-    5. **#### Delete Product**
+    5. #### **Delete Product**
         ##### Endpoint : [DELETE] /api/product/{id}
         #####  Headers
         ```
